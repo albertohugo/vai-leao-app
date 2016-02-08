@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bk_splash">#191F2C</color>
+    <color name="colorPrimary">#191F2C</color>
+    <color name="colorPrimaryDark">#191F2C</color>
+    <color name="colorAccent">#C4C4C4</color>
+    <color name="bk_header_tabela">#C4C4C4</color>
+</resources>
